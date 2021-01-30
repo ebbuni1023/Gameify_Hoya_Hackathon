@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "289291605994",
+    "project_id": "gameify-auth",
+    "storage_bucket": "gameify-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289291605994:android:085b8cc583fc74492a0493",
+        "android_client_info": {
+          "package_name": "com.example.gameify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289291605994-o6fmr46mbs3d7t88bssfcovkrra204t3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gameify",
+            "certificate_hash": "6ca4dc5275d98b1e7812acfaabef21e2e23d1b82"
+          }
+        },
+        {
+          "client_id": "289291605994-cejusgvls9mnav8gomlr1uos7rgk3dgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw-yNYC_Gtd-AeEfbLLvK6u9rFIr-d0lQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289291605994-cejusgvls9mnav8gomlr1uos7rgk3dgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
